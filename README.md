@@ -3,3 +3,6 @@
 An Exploration of Public Data Visualization with D3.js
 
 ![Test Image 1](screen_image.png)
+
+### Description
+This project uses D3.js to visualize some state-level data about population health based on 2014 U.S. Census data. It similates an on-line newpaper article with an interactive visualization. Three risk factors (obesity, smoking, and uninsurance rates) are plotted against three perhaps underlying factors (income, poverty rate, and age).
